@@ -1,6 +1,6 @@
 Samudra AI is an integrated web platform designed to improve safety, research, and data sharing for the Indian marine community. It brings together real-time ocean conditions, molecular biodiversity data, personalized oceanography assistance, and smart marine detection features to empower both fishermen and scientists.
 
-Key Highlights:
+Key Highlights:{ it is the key highlights that helps to understand the project }
 
 🌊 Real-Time Ocean Data – Sea temperature, currents, waves, and weather alerts from trusted sources like INCOIS.
 
